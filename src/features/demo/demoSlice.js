@@ -1,9 +1,9 @@
 import { createSlice } from '@reduxjs/toolkit';
 
-const initialState = { demo: 0 };
+const initialState = {};
 
 const demoSlice = createSlice({
-  name: 'demo',
+  name: '',
   initialState,
   reducers: {}
 });
