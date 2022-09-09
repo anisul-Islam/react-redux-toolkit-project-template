@@ -1,11 +1,11 @@
 import { createSlice } from '@reduxjs/toolkit';
 
-const initialState = {demo : 0};
+const initialState = {};
 
 const demoSlice = createSlice({
-  name: '',
+  name: 'demo',
   initialState,
   reducers: {}
 });
-export const {} = demoSlice.actions;
+// export const {} = demoSlice.actions;
 export default demoSlice.reducer;
