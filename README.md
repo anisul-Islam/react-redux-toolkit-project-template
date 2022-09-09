@@ -1,1 +1,1 @@
-# React App
+# react-redux-toolkit-project-template
