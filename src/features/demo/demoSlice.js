@@ -7,5 +7,5 @@ const demoSlice = createSlice({
   initialState,
   reducers: {}
 });
-
+export const {} = demoSlice.actions;
 export default demoSlice.reducer;
